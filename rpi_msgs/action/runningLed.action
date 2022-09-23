@@ -1,0 +1,8 @@
+# goal
+int16 numberOfRuns
+---
+# result
+int16 finalRun
+---
+# feedback
+int16 currentRun

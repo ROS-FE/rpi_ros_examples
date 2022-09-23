@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node name="btn_pub" pkg="rpi_feros" type="button_publisher.py" output="screen"/>
+    <node name="led_act" pkg="rpi_feros" type="led_actuator.py" output="screen"/>   
+</launch>
